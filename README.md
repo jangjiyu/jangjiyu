@@ -52,10 +52,3 @@ Here are some ideas to get you started:
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=tistory&link=https://jangjiyu.tistory.com/)](https://jangjiyu.tistory.com/)
 
 <br>
-
-### 👩‍💻 Activity
-[![jiyu's github stats](https://github-readme-stats.vercel.app/api?username=jangjiyu&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangjiyu&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-
