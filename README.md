@@ -49,6 +49,5 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me: ...
 [![Gmail Badge](https://img.shields.io/badge/gujiyujang@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gujiyujang@gmail.com)](mailto:gujiyujang@gmail.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=tistory&link=https://jangjiyu.tistory.com/)](https://jangjiyu.tistory.com/)
 
 <br>
