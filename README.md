@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ### 💪 Skills & Stacks
 <div>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white">
@@ -39,7 +40,6 @@ Here are some ideas to get you started:
 
 ### 🌱 I’m currently learning ...
 <div>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"> 
 <img src="https://img.shields.io/badge/Typeform-262627?style=flat-square&logo=Typeform&logoColor=white"> 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> 
