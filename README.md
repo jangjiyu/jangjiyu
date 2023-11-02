@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <br>
 
-### ✨ 웹 백엔드 개발자 꿈나무 🎄 ✨
+### ✨ 웹 백엔드 개발자 🎄 ✨
 
 <br>
 
@@ -54,4 +54,4 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jangjiyu&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangjiyu&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangjiyu&layout=compact&theme=dark)
