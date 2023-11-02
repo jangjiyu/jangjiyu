@@ -52,4 +52,6 @@ Here are some ideas to get you started:
 
 <br>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jangjiyu&show_icons=true&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangjiyu&layout=compact&theme=dark)
