@@ -51,6 +51,10 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/gujiyujang@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gujiyujang@gmail.com)](mailto:gujiyujang@gmail.com)
 
 <br>
+</div>
+
+
+<div align=center>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jangjiyu&show_icons=true&theme=dark)
 
