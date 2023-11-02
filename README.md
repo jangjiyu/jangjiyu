@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=center>
-<br>
 
 ### ✨ 웹 백엔드 개발자 🎄 ✨
 
@@ -55,6 +54,7 @@ Here are some ideas to get you started:
 
 
 <div align=center>
+<br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jangjiyu&show_icons=true&theme=dark)
 
