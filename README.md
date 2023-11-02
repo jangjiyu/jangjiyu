@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align=center>
 <br>
 
 ### ✨ 웹 백엔드 개발자 🎄 ✨
@@ -55,3 +55,6 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jangjiyu&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangjiyu&layout=compact&theme=dark)
+
+
+</div>
